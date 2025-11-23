@@ -1,1 +1,1 @@
-# Day-2-of-ten-days-ai-agent
+I have successfully completed Day 2 task of building Coffee-Shop-Barista-Agent-ai
